@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    width: 100vw;
+}
+
+.flex-parent {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: wheat;
+    height: 500px;
+}
+
+.flex-son {
+    width: 250px;
+    height: 250px;
+}
+
+.one {
+    background: green;
+}
+
+.two {
+    background: blue;
+}
+
+.three {
+    background: red;
+}
